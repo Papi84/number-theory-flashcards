@@ -43,7 +43,7 @@ A comprehensive C-based flashcard application for learning divisibility rules, p
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/number-theory-flashcards.git
+git clone https://github.com/papi84/number-theory-flashcards.git
 cd number-theory-flashcards
 
 # Compile using Make
@@ -77,4 +77,5 @@ Did you get it right? (y/n): y
 
 
 # Or compile directly
+
 
